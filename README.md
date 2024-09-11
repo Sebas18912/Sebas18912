@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I am Sebastian👋
+Hi, I'm Sebastian,I am 18 years old, I'm a student at UABJO and I'm here to learn several languages, tools and many somthings more🗣
 
-<!--
-**Sebas18912/Sebas18912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.instagram.com/sebas2._/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on be a better student
+- 🌱 I’m currently learning computing at UABJO 
+- 🤔 I’m looking for help with mathematics, physics and calculus 😭
+- 💬 Ask me about for music and videogames 
+- 📫 How to reach me in my email sebasrodas123@gmail.com 
+- 😄 Pronouns: He/him 🧑  
+- ⚡ Fun fact I love video games 🎮
+
